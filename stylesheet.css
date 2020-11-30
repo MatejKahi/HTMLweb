@@ -1,5 +1,6 @@
 body{
-    background-image: url("https://mewallpaper.com/thumbnail/games/8518-macbook-pro-laptop-wallpaper-file-hd.jpg");
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/952964242161767666/A0686A3BAC68404FF93C9BEDD52E52436B8E3199/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");
+background-size: cover;
 }
 .navigation{
     float: right;
@@ -16,4 +17,8 @@ body{
     font-family: poppins;
     font-size: 16px;
     color: white;
+}
+h1{
+    color: white;
+    text-align: center;
 }

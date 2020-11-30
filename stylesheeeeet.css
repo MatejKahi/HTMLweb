@@ -1,0 +1,39 @@
+* { margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/431573860952590830/07B1A4D2923FBCB3CF3B9B9750ACEEC144C16F25/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");
+    background-size: cover;
+    margin: 0 auto;
+    color: crimson;
+    width: 1000px;
+    font-family: sans-serif, arial, sans-serif;
+}
+
+h1 {
+    color: #555;
+    margin: 0 0 20px 0;
+}
+
+label {
+    font-size: 20px;
+    color: crimson;
+}
+
+fieldset { border: none; }
+
+#user-details {
+    float: left;
+    width: 230px;
+}
+
+#user-message {
+    float: right;
+    width: 405px;
+}
+
+textarea {
+    width: 390px;
+    height: 175px;
+}
